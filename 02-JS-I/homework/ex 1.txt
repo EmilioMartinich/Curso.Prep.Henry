@@ -1,0 +1,5 @@
+    * Variables : es el valor q se le da a algo. ejemplo: var a = 1;
+	* Strings: es una cadena de caracteres.
+	* Funciones (argumentos, `return`): es una agrupacion de codigos, q nos permitira utilizarlos a futuro
+	* Declaraciones `if`: sirve para tomar decisiones dentro de una funcion. Evalua operaciones logicas.
+	* Valores booleanos (`true`, `false`): son valores q solo dan como respuesta true y false. Utiliza el codigo binario (0, 1).
