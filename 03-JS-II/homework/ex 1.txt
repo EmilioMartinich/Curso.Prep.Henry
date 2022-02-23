@@ -1,0 +1,4 @@
+* `for`: es un bucle de instrucciones q se repite una o mas veces.
+* `&&`: significa "Y", "And"; evalua dos expresiones, y si ambas son correctas retorna True.
+* `||`: significa "O", "Or"; evalua dos expresiones, y devuelve true, si una o ambas son correctas. o retorna false si ambas son falsas.
+* `!`: significa "No", "Not"; retorna lo opuesto.
