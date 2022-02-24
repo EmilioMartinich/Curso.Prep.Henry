@@ -1,0 +1,7 @@
+ * Objetos: lista en la cual se guardan mucha info de una cosa. 
+ * Propiedades: son los key:valor del Objeto 
+ * Métodos: son funciones guardas dentro del Objeto
+ * Bucle `for…in`: sirve para iterar dentro de un objeto, ej: for(let clave in objeto)
+ * Notación de puntos vs notación de corchetes : sirven para llamar a un objeto.
+  de puntos: nombreObjeto + . + nombreValor.
+  De corchetes: nombreObjeto + [nombreValor]; este es el mas usado.
