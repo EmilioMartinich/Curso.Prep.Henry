@@ -1,0 +1,1 @@
+* Arrays: lista de elementos. se declara una variable y luego van []. Se pueden guardar numero, strings, booleanos.
