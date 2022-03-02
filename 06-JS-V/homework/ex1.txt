@@ -1,0 +1,2 @@
+* `prototype`: es la forma para agregar un metodo y usarlo en varios objetos. Se puede utilizar la palabra clave this.
+* _Constructors_ (de Clases): sirve para crear varios objetos con las mismas propiedades y/o metodos. 
